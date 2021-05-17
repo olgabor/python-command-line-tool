@@ -2,5 +2,5 @@
 
 ## Run CLI 
 
-    cat CompoundWordFinder.py | input.txt
+    cat input.txt| python CompoundWordFinder.py
     
